@@ -53,7 +53,7 @@ Use the report to derive insights on teams, players, and match conditions.
 
 # 📈 Sample Visuals
 ### 🏏 IPL Dashboard Overview
-![IPL Dashboard](assets/screenshots/ipl-dashboard.png)
+![IPL Dashboard](assets/dashboard.png)
 
 
 ### 📽️ IPL Dashboard Walkthrough
