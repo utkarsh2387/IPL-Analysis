@@ -59,5 +59,5 @@ If you'd like to connect or collaborate on sports analytics projects:
 
 Utkarsh Gupta
 📧 [utkarshg858@gmail.com]
-🔗 [https://www.linkedin.com/in/utkarsh-gupta-5a8267208/]
+🔗 https://www.linkedin.com/in/utkarsh-gupta-5a8267208/
 
