@@ -52,7 +52,7 @@ Use the report to derive insights on teams, players, and match conditions.
 
 
 # 📈 Sample Visuals
-(You may include screenshots here of the dashboard visuals for GitHub preview.)
+![IPL Analysis](IPL ANALYSIS.png)
 
 # 📬 Contact
 If you'd like to connect or collaborate on sports analytics projects:
