@@ -58,7 +58,7 @@ Use the report to derive insights on teams, players, and match conditions.
 
 ### 📽️ IPL Dashboard Walkthrough
 
-🎬 [Click to watch demo video](assets/demo.mp4)
+[![IPL Dashboard Video]] (https://www.youtube.com/watch?v=VIDEO_ID)
 
 # 📬 Contact
 If you'd like to connect or collaborate on sports analytics projects:
